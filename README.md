@@ -1,4 +1,4 @@
-# LM Regional Commerce
+<img width="467" height="281" alt="image" src="https://github.com/user-attachments/assets/e71c11db-8b13-44dc-a2ff-26f2263efc0f" /># LM Regional Commerce
 
 Country-based pricing, currency and separate stock for WooCommerce. Built for stores that sell in a few fixed regions, for example **Pakistan (PKR), Saudi Arabia (SAR) and UAE (AED)**.
 
@@ -95,6 +95,9 @@ That's it. Every product now shows the converted price in the visitor's region.
 
 ### General
 
+<img width="467" height="281" alt="image" src="https://github.com/user-attachments/assets/ce65b27a-d910-4f70-8eb1-c092d962d3c2" />
+
+
 | Setting | Description |
 |---|---|
 | Default region | Used until the visitor picks a region. |
@@ -118,6 +121,9 @@ The **Example** box under each region shows a live preview, for example `PKR 10,
 
 **Removing a region** hides its prices and stock on products but does not delete them. If you add a region with the same key again, the data comes back.
 
+<img width="879" height="588" alt="image" src="https://github.com/user-attachments/assets/53ba3b8e-5f70-4e64-ab60-244b818aa3c9" />
+
+
 ---
 
 ## How prices are calculated
@@ -139,6 +145,7 @@ Example with PKR as the store currency:
 - In wp-admin you always see and edit the normal store-currency price.
 
 ---
+
 
 ## Rounding options
 
@@ -217,6 +224,9 @@ If **Manage stock** is off for a region, that region uses WooCommerce's normal s
 | `[lmrc_region_switcher style="full"]` | Flag + name + currency | Flag + name + currency |
 
 Clicking the switcher opens the region popup. Put the shortcode in a header widget, an Elementor or Gutenberg shortcode block, or a theme template:
+
+<img width="345" height="115" alt="image" src="https://github.com/user-attachments/assets/7416b933-59e2-4025-9ff3-61c4c47974b7" />
+
 
 ```php
 <?php echo do_shortcode('[lmrc_region_switcher]'); ?>
