@@ -363,25 +363,6 @@ The plugin's front-end CSS uses the `html body` prefix. Use the same prefix, or 
 - The switcher shows only the flag and arrow on mobile. Added `style="flag"` and `style="full"` shortcode options.
 - Added a menu item with the current flag (custom link `#lmrc-region`). Any `#lmrc-region` link and the `/#lmrc-region` URL now open the popup.
 
-### 1.2.0
-- Added a multiplier per region: prices are calculated from the normal price.
-- Added rounding options.
-- Added a **Custom price** option per product, per variation and per region.
-- Live price preview on the Regions page and calculated prices on product screens.
-
-### 1.1.0
-- Fixed the **503 error** caused by an infinite loop between the region list and the currency filter.
-- Variable product price ranges now follow the region.
-- WooCommerce's global stock is no longer reduced for regionally managed items.
-- Added cart and checkout quantity checks against regional stock.
-- "Manage stock" is now off by default, so products no longer go out of stock on first save.
-- Fixed currency switching inside wp-admin AJAX.
-- Added block checkout support, the region on the order screen, order notes for stock changes and region logos.
-- New popup, floating button and admin design. Added a one-click preset for Saudi Arabia, UAE and Pakistan.
-
-### 1.0.1
-- First version.
-
 ---
 
 ## License
