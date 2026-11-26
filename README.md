@@ -175,6 +175,11 @@ Results for PKR 10,000 → AED (multiplier 0.0132864, raw result 132.86):
 
 Use a custom price when a product needs a fixed price in a region instead of the calculated one.
 
+
+<img width="639" height="571" alt="image" src="https://github.com/user-attachments/assets/1e92adf3-2879-41c2-a63f-38f1f735327c" />
+
+
+
 ### Simple products
 
 1. Edit the product and open **Product data → Regional prices**.
